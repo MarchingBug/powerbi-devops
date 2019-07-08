@@ -42,13 +42,13 @@ Azure DevOps [30 day trial].
 - [Link Azure App to Power Bi]
 - [Create DevOps Pipeline]
   
-  [Create Azure DevOps Project]:<https://github.com/MarchingBug/powerbi-devops/blob/master/1-CreateAzureDevOpsProject/CreateAzureDevOpsProject.md>
-  [Loading your Power BI Report to a Repository]:<https://github.com/MarchingBug/powerbi-devops/blob/master/2-CreateVisualStudioProject/CreateVisualStudioProject.md>
-  [Link VS Project to Azure DevOps]:<https://github.com/MarchingBug/powerbi-devops/blob/master/3-LinkVStoDevOps/LinlVSToDevOps.md>
-  [Configure Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/master/4-ConfigurePowerBi/ConfigurePowerBi.md>
-  [Configure Azure App]:</https://github.com/MarchingBug/powerbi-devops/blob/master/5-ConfigureAppOnAzure/Configure-app-on-azure.md>
-  [Link Azure App to Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/master/6-LinkAppToPowerBi/link-app-to-powerbi.md>
-  [Create DevOps Pipeline]:<https://github.com/MarchingBug/powerbi-devops/blob/master/7-CreateDevOpsPipeline/create-devops-pipeline.md>
+  [Create Azure DevOps Project]:<https://github.com/MarchingBug/powerbi-devops/blob/master/1-CreateAzureDevOpsProject/ReadMe.md>
+  [Loading your Power BI Report to a Repository]:<https://github.com/MarchingBug/powerbi-devops/blob/master/2-CreateVisualStudioProject/ReadMe.md>
+  [Link VS Project to Azure DevOps]:<https://github.com/MarchingBug/powerbi-devops/blob/master/3-LinkVStoDevOps/ReadMe.md>
+  [Configure Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/master/4-ConfigurePowerBi/ReadMe.md>
+  [Configure Azure App]:</https://github.com/MarchingBug/powerbi-devops/blob/master/5-ConfigureAppOnAzure/ReadMe.md>
+  [Link Azure App to Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/master/6-LinkAppToPowerBi/ReadMe.md>
+  [Create DevOps Pipeline]:<https://github.com/MarchingBug/powerbi-devops/blob/master/7-CreateDevOpsPipeline/ReadMe.md>
   
   [free account]:<https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F>
   [Sign in]:<https://portal.azure.com/>
