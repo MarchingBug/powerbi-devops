@@ -46,13 +46,13 @@ Azure DevOps [30 day trial].
 - [Link Azure App to Power Bi]
 - [Create DevOps Pipeline]
   
-  [Create Azure DevOps Project]:<\1-CreateAzureDevOpsProject\CreateAzureDevOpsProject.md>
-  [Loading your Power BI Report to a Repository]:<\2-CreateVisualStudioProject\CreateVisualStudioProject.md>
-  [Link VS Project to Azure DevOps]:<\3-LinkVStoDevOps\LinlVSToDevOps.md>
-  [Configure Power Bi]:<\4-ConfigurePowerBi\ConfigurePowerBi.md>
-  [Configure Azure App]:<\5-ConfigureAppOnAzure\Configure-app-on-azure.md>
-  [Link Azure App to Power Bi]:<\6-LinkAppToPowerBi\link-app-to-powerbi.md>
-  [Create DevOps Pipeline]:<\7-CreateDevOpsPipeline\create-devops-pipeline.md>
+  [Create Azure DevOps Project]:<https://github.com/MarchingBug/powerbi-devops/blob/master/1-CreateAzureDevOpsProject/CreateAzureDevOpsProject.md>
+  [Loading your Power BI Report to a Repository]:<https://github.com/MarchingBug/powerbi-devops/blob/master/2-CreateVisualStudioProject/CreateVisualStudioProject.md>
+  [Link VS Project to Azure DevOps]:<https://github.com/MarchingBug/powerbi-devops/blob/master/3-LinkVStoDevOps/LinlVSToDevOps.md>
+  [Configure Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/master/4-ConfigurePowerBi/ConfigurePowerBi.md>
+  [Configure Azure App]:</https://github.com/MarchingBug/powerbi-devops/blob/master/5-ConfigureAppOnAzure/Configure-app-on-azure.md>
+  [Link Azure App to Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/master/6-LinkAppToPowerBi/link-app-to-powerbi.md>
+  [Create DevOps Pipeline]:<https://github.com/MarchingBug/powerbi-devops/blob/master/7-CreateDevOpsPipeline/create-devops-pipeline.md>
   
   [free account]:<https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F>
   [Sign in]:<https://portal.azure.com/>
@@ -60,4 +60,4 @@ Azure DevOps [30 day trial].
   [30 day trial]:https://azure.microsoft.com/en-us/services/devops/
   [download visual studio]:https://visualstudio.microsoft.com/vs/whatsnew/
   [download Power BI Desktop]:https://www.microsoft.com/en-us/download/details.aspx?id=45331
-  [Download sample report]:<\sourcefiles\dev_IPEDSEnrollmentTrends.zip> 
+  [Download sample report]:<https://github.com/MarchingBug/powerbi-devops/blob/master/sourcefiles/dev_IPEDSEnrollmentTrends.zip> 
