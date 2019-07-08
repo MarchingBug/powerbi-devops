@@ -9,6 +9,8 @@
  ![Create New Project](NewProjectDefinition.png)  
 
   Next: [Loading your Power BI Report to a Repository]
-
-   [Loading your Power BI Report to a Repository]:<\2-CreateVisualStudioProject\CreateVisualStudioProject.md>:<..\2-CreateVisualStudioProject\CreateVisualStudioProject.md>
+  
    [login]:https://azure.microsoft.com/en-us/services/devops/
+   [Loading your Power BI Report to a Repository]:<\2-CreateVisualStudioProject\CreateVisualStudioProject.md>:<..\2-CreateVisualStudioProject\CreateVisualStudioProject.md>
+   
+   
