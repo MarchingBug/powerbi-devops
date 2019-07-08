@@ -86,4 +86,4 @@ State of the release will be displayed
 
 [Login]:https://azure.microsoft.com/en-us/services/devops/
 [Pipelines Documentation]:https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=azure-devops
- [Download Release Pipeline]:<..\sourcefiles\dev_IPEDSEnrollmentTrends.zip>
+ [Download Release Pipeline]:<https://github.com/MarchingBug/powerbi-devops/blob/master/sourcefiles\dev_IPEDSEnrollmentTrends.zip>
