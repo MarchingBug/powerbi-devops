@@ -12,5 +12,5 @@ We now need to add the registered application as an Admin member of the workspac
 
 Next: [create DevOps Pipeline]
 
-[create DevOps Pipeline]:<..\7-CreateDevOpsPipeline\create-dev-ops-pipeline.md>
+[create DevOps Pipeline]:<https://github.com/MarchingBug/powerbi-devops/blob/master/7-CreateDevOpsPipeline\ReadMe.md>
 [Login]:https://powerbi.microsoft.com/en-us/landing/signin/
