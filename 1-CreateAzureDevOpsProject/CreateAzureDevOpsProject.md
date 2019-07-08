@@ -11,6 +11,7 @@
   Next: [Loading your Power BI Report to a Repository]
   
    [login]:https://azure.microsoft.com/en-us/services/devops/
-   [Loading your Power BI Report to a Repository]:<\2-CreateVisualStudioProject\CreateVisualStudioProject.md>:<..\2-CreateVisualStudioProject\CreateVisualStudioProject.md>
+   [Loading your Power BI Report to a Repository]:<\2-CreateVisualStudioProject\CreateVisualStudioProject.md>
+   
    
    
