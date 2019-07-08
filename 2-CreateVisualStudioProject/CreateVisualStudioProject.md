@@ -13,11 +13,11 @@ You can simply go to your Azure DevOps repository and upload the file .pbix file
 
 Open Visual Studio and create a new project
 
- ![Create New Project](createnewproject.png)
+ ![Create New Project](CreateNewProject.png)
 
  Select Create Azure Resource Group
 
-  ![Select Azure Resource Group](createazureresourcegroup.png)
+  ![Select Azure Resource Group](CreateAzureResourceGroup.png)
 
   Name the project PowerBiDevOps, now add the sample report you downloaded on the first step click [here to download it], **please unzip the file**
 
