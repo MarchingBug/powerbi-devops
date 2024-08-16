@@ -33,4 +33,4 @@ Go back to your Azure DevOps dashboad, select your Power Bi - DevOps project and
 
 Next: [Configure Power Bi]
 
-[Configure Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/master\4-ConfigurePowerBi\ReadMe.md>
+[Configure Power Bi]:<https://github.com/MarchingBug/powerbi-devops/blob/c51ef55b479b80e3da7c7f3be70641022a137091/4-ConfigurePowerBi/ReadMe.md>
