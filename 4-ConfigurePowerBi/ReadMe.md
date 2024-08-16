@@ -51,4 +51,4 @@ Next: [Configure Application Permissions]
 
 [Login]:https://powerbi.microsoft.com/en-us/landing/signin/
 [More documentation]:https://docs.microsoft.com/en-us/power-bi/service-create-the-new-workspaces
-[Configure Application Permissions]:<https://github.com/MarchingBug/powerbi-devops/blob/master/5-ConfigureAppOnAzure\ReadMe.md>
+[Configure Application Permissions]:<https://github.com/MarchingBug/powerbi-devops/blob/a0543fcf7e0def251a8129281dac881c4ee88b19/5-ConfigureAppOnAzure/ReadMe.md>
